@@ -1,2 +1,1 @@
-# THpra
-Thursday practice
+import numby as np
